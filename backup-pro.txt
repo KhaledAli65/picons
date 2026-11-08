@@ -2,9 +2,9 @@
 =====WELCOME===== https://khaledali.com
 ===KhaledAli_Cloud_ONLINE_NovalerPro=== https://khaledali.com
 ---KhaledAli_Backup--- https://khaledali.com
-01_OpenATV_8.1_Beta_02_11_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenATV-8.1.0_beta-novaler4kpro-02112026.zip
-02_OpenVIX_6.9.006_01_11_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenViX-6.9-novaler4kpro_01112026.zip
-03_OpenBH_6.0.005_27_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenBh-6.0.005-novaler4kpro_28102026.zip
+01_OpenBH_6.0.005_08_11_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenBh-6.0-multiboxpro_08112026.zip
+02_OpenATV_8.1_Beta_08_11_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenATV-8.1.0_beta-multiboxpro_08112026.zip
+03_OpenVIX_6.9.006_01_11_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenViX-6.9-novaler4kpro_01112026.zip
 04_OpenATV_8.0.1_27_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenATV-8.0.1-novaler4kpro_28102026.zip
 05_OpenHDF_8.0_20_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openHDF-8.0-novalerpro_20102026.zip
 06_TeamBlue_8.0_20_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/Teamblue-8.0-novalerpro_20102026.zip
